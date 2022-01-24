@@ -1,0 +1,194 @@
+/*
+.home-section {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(200, 200, 216);
+  top: -20px;
+  left: 0;
+}
+.name {
+  position: relative;
+
+  font-size: 10vw;
+  text-align: left;
+  width: 31vw;
+
+  left: calc(50% - 22.5vw);
+
+  transform: translate(-50%, -50%);
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 8.5vw;
+  z-index: +2;
+
+  top: 50vh;
+  background: none;
+}
+.other-bit {
+  width: 20px;
+  height: 300px;
+  background: red;
+}
+
+.bio {
+  position: absolute;
+
+  font-size: 1vw;
+  text-align: left;
+  width: 18vw;
+  display: block;
+  left: calc(50% - 8.5vw);
+  top: calc(50vh - 9vw);
+  transform: translate(-50%, -50%);
+  text-transform: uppercase;
+  font-weight: normal;
+  font-family: sk-modernist;
+  z-index: +1;
+}
+
+.designer {
+  margin-left: 6vw;
+}
+
+.oliver {
+  margin-left: 5.5vw;
+  display: block;
+}
+
+.wilcox {
+  margin-left: 16vw;
+  display: block;
+}
+
+.work-square {
+  position: absolute;
+  width: 29vw;
+  height: 38vw;
+  background: #dfdfdf;
+  border-radius: 16vw;
+  left: calc(50% + 22vw);
+  top: calc(50vh + 20px);
+  margin: 0;
+  transform: translate(-50%, -50%);
+  z-index: +1;
+}
+
+@media screen and (max-width: 500px) {
+  .im {
+    position: relative;
+    display: block;
+
+    height: 15vw;
+
+    width: 40vw;
+    margin-top: 0px;
+    overflow: hidden;
+  }
+  .im-inner {
+    position: relative;
+    display: block;
+    margin-top: 10vw;
+    animation: inner 0.8s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+  }
+  .name {
+    position: relative;
+    font-size: 19.5vw;
+    line-height: 16vw;
+    width: 92vw;
+    left: calc(50% - 46vw);
+    margin-top: 22vh;
+    transform: none;
+    background: none;
+  }
+
+  .oliver {
+    margin-left: 10vw;
+    position: relative;
+    display: block;
+
+    height: 15vw;
+    margin-top: 1vw;
+    width: 60vw;
+
+    overflow: hidden;
+  }
+
+  .oliver-inner {
+    position: relative;
+    display: block;
+    margin-top: 10vw;
+    animation: inner 0.8s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+    animation-delay: 0.1s;
+  }
+
+  .wilcox {
+    margin-left: 26vw;
+    position: relative;
+    display: block;
+    margin-top: 1vw;
+    height: 15vw;
+
+    width: 66vw;
+
+    overflow: hidden;
+  }
+
+  .wilcox-inner {
+    position: relative;
+    display: block;
+    margin-top: 10vw;
+    animation: inner 0.8s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+    animation-delay: 0.15s;
+  }
+
+  .bio {
+    position: relative;
+    top: 0;
+    transform: none;
+    background: none;
+    margin-top: -10vw;
+    font-size: 4vw;
+    width: 86vw;
+    animation: bio 0.8s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+    left: calc(50% - 40vw);
+  }
+  .designer {
+    margin-left: 20vw;
+  }
+
+  .work-square {
+    position: relative;
+    left: 50%;
+    top: 0;
+    margin-top: 100px;
+    width: 58vw;
+    height: 70vw;
+    transform: none;
+    transform: translateX(-50%);
+    border-radius: 30vw;
+  }
+}
+
+@keyframes inner {
+  0% {
+    margin-top: 18vw;
+  }
+  100% {
+    margin-top: 0;
+  }
+}
+
+@keyframes bio {
+  0% {
+    top: 4vw;
+    opacity: 0;
+  }
+  100% {
+    top: 0;
+    opacity: 1;
+  }
+}
+</style>
+
+*/
