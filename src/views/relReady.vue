@@ -3,7 +3,7 @@
     <div class="word-one"><div class="case-title">RELATIONSHIP</div></div>
     <div class="word-two"><div class="case-title-two">READY</div></div>
     <div class="role">
-      <div class="role-inner">Solo Project</div>
+      <div class="role-inner">Front End / Design</div>
     </div>
     <div class="case-picture-one">
       <img src="../assets/RelationshipReadyFront.jpg" alt="" class="img-one" />
